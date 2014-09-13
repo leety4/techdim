@@ -1,0 +1,21 @@
+[
+{
+  "modid": "techdim",
+  "name": "Tech Dimension",
+  "description": "Want high tech worlds? You got it!",
+  "version": "1.0",
+  "url": "",
+  "updateUrl": "",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "authorList": [
+  "leety4","thinblueboy"
+  ],
+  "credits": "",
+  "screenshots": [
+  ],
+  "parent": "",
+  "dependencies": [
+  ]
+}
+]
